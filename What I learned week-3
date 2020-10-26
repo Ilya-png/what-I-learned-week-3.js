@@ -1,0 +1,47 @@
+
+process.argv[]
+
+In computing (particularly, in programming), undefined value is a condition where an expression does not have a correct value, although it is syntactically correct. An undefined value must not be confused with empty string, boolean "false" or other "empty" (but defined) values.
+
+
+
+
+node.
+
+Node is a Javascript runtime that runs on Browser's V8 JS engine.
+
+
+Incrementing Variables..
+
+To increment a variable means to increase it by the same amount at each change. For example, your coder may increment a scoring variable by +2 each time a basketball goal is made. Decreasing a variable in this way is known as decrementing the variable value.
+
+
+Undefined Values.
+
+undefined value is a condition where an expression does not have a correct value, although it is syntactically correct. An undefined value must not be confused with empty string, boolean "false" or other "empty" (but defined) values. Depending on circumstances, evaluation to an undefined value may lead to exception or undefined behaviour, but in some programming languages undefined values can occur during a normal, predictable course of program execution.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
